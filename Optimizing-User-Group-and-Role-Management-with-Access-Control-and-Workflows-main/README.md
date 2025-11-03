@@ -33,8 +33,6 @@ Here is a structure diagram based on your image:
 ├── 📁 Video Demo
 │   └── 📄 Demo video
 ├── 📄 Technology Stack-Template.pdf
-├── ℹ️ readme.md
-├── ℹ️ readme.md
 └── ℹ️ README.md
 ```
 

@@ -111,8 +111,8 @@ They include:
 
 ## 📚 Author
 
-**Team Leader : Mohammed Ajmel S**
-**Team member : Nijil N**
+**Team Leader : Mohammed Ajmel S**, 
+**Team member : Nijil N**, 
 **Team member : Raguraman R**  
 📍 India  
 
